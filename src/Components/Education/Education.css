@@ -1,0 +1,120 @@
+#Education{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2041;
+ padding-top: 20px;
+ padding-bottom: 25px;
+ clip-path: polygon(0 0, 100% 0, 100% 81%, 245% 96%, 0 100%);
+}
+.Education-header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   color:white;
+}
+.edu-subtitle{
+    margin-top: 15px;
+}
+.edu-title>h1{
+  font-size: 24px;
+}
+.EducationContainer{
+    margin-top: 30px;
+color: white;
+ background-color: black;
+ border: 0.1px solid #854ce6;
+ padding: 50px;
+ border-radius: 8px;
+ width: 42%;
+ background-color: #171721;
+ line-height: 40px;
+}
+.q-image{
+    width: 200px;
+ 
+    object-fit: cover;
+  }
+  .qertificate-container{
+    display: flex;
+    gap: 30px;
+  }
+  .qe-title{
+    font-size: 14px;
+    line-height: 25px;
+  }
+  .qe-text{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .qe-button {
+    appearance: button;
+    -webkit-text-decoration: none;
+    text-decoration: none;
+    width: 100%;
+    max-width: 300px;
+    text-align: center;
+    padding: 2px 5px 2px 0px;
+    color: #ffffff;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: 600;
+    transition: all 0.2s ease-in-out !important;
+    background: hsla(271, 100%, 50%, 1);
+    background: linear-gradient( 225deg, hsla(271, 100%, 50%, 1) 0%, hsla(294, 100%, 50%, 1) 100% );
+    background: -webkit-linear-gradient( 225deg, hsla(271, 100%, 50%, 1) 0%, hsla(294, 100%, 50%, 1) 100% );
+  font-size: 14px;
+ 
+  }
+  @media (max-width: 1400px) {
+    .qertificate-container{
+      flex-direction: column;
+     }
+      .qertificate-container> .q-image{
+    width: 100%;
+   }
+   .qe-title{
+    font-size: 16px;
+   }
+  }
+@media (max-width: 960px) {
+    .edu-subtitle>p{
+        text-align: center;
+        font-size: 1.2rem;
+        width: 95%;
+       }
+       .EducationContainer{
+        width: 80%;
+        padding: 50px;
+         line-height: 40px;
+       }
+       
+  }
+@media (max-width: 760px) {
+ #Education{
+  padding-top: 15px;
+ }
+   .EducationContainer{
+    width: 80%;
+    padding: 20px;
+  line-height: 33px;
+   }
+   .qertificate-container{
+    flex-direction: column;
+   }
+    .qertificate-container> .q-image{
+    width: 100%;
+   }
+ 
+  }
+  @media (max-width: 380px) {
+    .qertificate-container> .q-image{
+      width: 100%;
+     }
+     .qe-button{
+      width: 100%;
+     }
+  }

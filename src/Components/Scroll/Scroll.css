@@ -1,0 +1,23 @@
+/* ScrollToTopButton.css */
+.back-to-top-button {
+  position: fixed;
+  bottom: 60px;
+  right: 20px;
+
+  color: white;
+  border: none;
+  border-radius: 50%;
+
+  font-size: 10px;
+  cursor: pointer;
+  z-index: 9999;
+ 
+}
+
+.back-to-top-button.show {
+  display: block;
+}
+
+.back-to-top-button:hover {
+  color: #0056b3; /* Change to a darker shade when hovered */
+}
