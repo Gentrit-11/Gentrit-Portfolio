@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Gentrit-Portfolio/static/css/main.d8eb82e3.css",
+    "main.js": "/Gentrit-Portfolio/static/js/main.3df72340.js",
+    "static/media/Screenshot 2023-09-03 114232.png": "/Gentrit-Portfolio/static/media/Screenshot 2023-09-03 114232.edbd390286704afba4fd.png",
+    "static/media/Screenshot 2023-09-03 211015.png": "/Gentrit-Portfolio/static/media/Screenshot 2023-09-03 211015.9d617bbfe3d203f254de.png",
+    "static/media/Screenshot 2023-09-05 103619.png": "/Gentrit-Portfolio/static/media/Screenshot 2023-09-05 103619.a7e78b90855db69d9b59.png",
+    "static/media/Screenshot 2023-09-03 200103.png": "/Gentrit-Portfolio/static/media/Screenshot 2023-09-03 200103.daa3b45732597f6cd999.png",
+    "static/media/Screenshot 2023-09-04 131811.png": "/Gentrit-Portfolio/static/media/Screenshot 2023-09-04 131811.f20415146f18eacc8c19.png",
+    "static/media/Screenshot 2023-09-04 131102.png": "/Gentrit-Portfolio/static/media/Screenshot 2023-09-04 131102.4902bd37169bf695bab9.png",
+    "static/media/Screenshot 2023-09-04 125730.png": "/Gentrit-Portfolio/static/media/Screenshot 2023-09-04 125730.7a078ec10c4d6c056f38.png",
+    "static/media/Screenshot 2023-09-04 124005.png": "/Gentrit-Portfolio/static/media/Screenshot 2023-09-04 124005.29598fdc930c1b7ed9f0.png",
+    "static/media/avatar.jpg": "/Gentrit-Portfolio/static/media/avatar.689a452b3c52927f069c.jpg",
+    "index.html": "/Gentrit-Portfolio/index.html",
+    "main.d8eb82e3.css.map": "/Gentrit-Portfolio/static/css/main.d8eb82e3.css.map",
+    "main.3df72340.js.map": "/Gentrit-Portfolio/static/js/main.3df72340.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8eb82e3.css",
+    "static/js/main.3df72340.js"
+  ]
+}
